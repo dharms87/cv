@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.dhh {
+  width: 300px;
+}
+
+.homebackground {
+  height: 150vh;
+  background-image: url(images/background.jpg);
+  background-size: cover;
+  background-size: 2000px;
+
+}
+
+.Hobbies {
+  height: 150vh;
+  background-image: url(images/floor.png);
+  background-size: cover;
+  background-size: 2000px;
+}
+
+.Contact {
+  height: 150vh;
+  background-image: url(images/gradient.png);
+  background-size: cover;
+  background-size: 2000px;
+}
